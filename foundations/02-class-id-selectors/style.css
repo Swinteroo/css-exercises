@@ -14,6 +14,6 @@
 
 #green {
     background-color: hsl(139, 60%, 62%);
-    font-size: 24px;
     font-weight: bold;
+    /* Removed the font-size declarative from #green and simply added .size to the fourth element to avoid repeat code.*/
 }
